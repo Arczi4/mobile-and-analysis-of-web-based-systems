@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Raw data
+Report_2/data/raw/
+
 # C extensions
 *.so
 
